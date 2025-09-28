@@ -2,6 +2,7 @@
 
 # dependencies
 node_modules/
+src/settings.ts
 
 # Expo
 .expo/

@@ -1,6 +1,7 @@
 {
   "expo": {
     "name": "charge-motioj",
+    "scheme": "charge-motioj",
     "slug": "charge-motioj",
     "version": "1.0.0",
     "orientation": "portrait",
